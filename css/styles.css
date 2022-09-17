@@ -1,0 +1,71 @@
+
+body {
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #e3d4f0
+}
+
+img {
+    max-width: 100%;
+    margin: 20px;
+    margin-inline-start: auto;
+    mask-size: cover;
+}
+
+ul {
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+}
+
+#firstpageheader {
+    text-align: center;
+    background-image: url(../img/html.jpg);
+    background-repeat: no-repeat;
+}
+
+header {
+    background-color:  #ae92c4 ;
+}
+
+
+li {
+    display: inline;
+    cursor: pointer;
+}
+
+/* Ändrar färg på navigation bar när musen är över */
+a:hover {
+    background-color:  #eeedea ;
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+}
+
+li a {
+
+    padding: 8px;
+    background-color:   #ae92c4 ;
+    color: white;
+}
+
+
+p {
+    font-family: "Lucida Console", "Courier New", monospace;;
+    color: navy
+}
+
+c {
+    font-family: "Lucida Console", "Courier New", monospace;;
+    color: blue
+}
+
+
+
+

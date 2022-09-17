@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<head>
+    <ul>
+        <li><a href="index.html">Start</a></li>
+        <li><a href="question2.html">Fråga 2</a></li>
+        <li><a href="question3.html">Fråga 3</a></li>
+    </ul>
+</head>
+
+<body>
+    <h1>hellue world</h1>
+</body>
