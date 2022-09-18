@@ -20,10 +20,16 @@ ul {
     text-align: center;
 }
 
+
 #firstpageheader {
     text-align: center;
     background-image: url(../img/html.jpg);
     background-repeat: no-repeat;
+}
+
+h1 {
+    border-style: groove;
+    
 }
 
 header {
